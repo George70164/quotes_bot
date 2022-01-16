@@ -1,5 +1,5 @@
 pyTelegramBotAPI
 psycopg2
-urllib == 1.26.8
+urllib3
 json
 
